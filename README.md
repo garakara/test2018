@@ -1,18 +1,18 @@
 # マークダウンの練習  
-ゼロから始めるGithub更新生活
+プログラマではないけど,自動で作業が楽になるならなんでもします.
+面倒くさいことは極力避けたいです.
+今の興味は,DeepLearning, Python, 英語
 
-## 参考リング
+## 参考リンク
 
-## DeepLearning
+### DeepLearning
 [Deep Learning](http://www.deeplearningbook.org/)
 
-## Matplotlib
-(調査中)
-
-## Markdownメモ  
-[Qiita]https://qiita.com/oreo/items/82183bfbaac69971917f
-
-## データ分析
+### データ分析
 [kaggle](https://www.kaggle.com/)
 
+### Matplotlib
+(調査中)
 
+### Markdownメモ  
+[Qiita](https://qiita.com/oreo/items/82183bfbaac69971917f)
