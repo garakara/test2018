@@ -1,7 +1,6 @@
-# マークダウンの練習   
-プログラマではないけど,自動で作業が楽になるならなんでもします.
-面倒くさいことは極力避けたいです.  
-今の興味は,DeepLearning, Python, 英語
+# Practice   
+I'm not programer, Simple is best! 
+My interesting: DeepLearning, Python, English
 
 ## 参考リンク
 
@@ -15,4 +14,4 @@
 [matplotlibで３Dグラフを作成](http://d.hatena.ne.jp/white_wheels/20100327/p3)
 
 ### Markdownメモ  
-[Qiita](https://qiita.com/oreo/items/82183bfbaac69971917f)
+[Markdownメモ](https://qiita.com/oreo/items/82183bfbaac69971917f)
