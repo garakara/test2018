@@ -12,7 +12,7 @@
 [kaggle](https://www.kaggle.com/)
 
 ### Matplotlib
-(調査中)
+[matplotlibで３Dグラフを作成](http://d.hatena.ne.jp/white_wheels/20100327/p3)
 
 ### Markdownメモ  
 [Qiita](https://qiita.com/oreo/items/82183bfbaac69971917f)
