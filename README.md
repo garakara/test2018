@@ -1,10 +1,12 @@
 # Practice   
-I'm not programer, Simple is best! 
-My interesting: DeepLearning, Python, English
+I'm not programer,simple is best! 
+My interesting: DeepLearning, Python, Azure
 
 ## 参考リンク
 
 ### DeepLearning
+[ゼロから作るDeep Learning](https://github.com/oreilly-japan/deep-learning-from-scratch)
+
 [Deep Learning](http://www.deeplearningbook.org/)
 
 ### データ分析
@@ -15,3 +17,6 @@ My interesting: DeepLearning, Python, English
 
 ### Markdownメモ  
 [Markdownメモ](https://qiita.com/oreo/items/82183bfbaac69971917f)
+
+## コメント
+25,Jun ようやく誤差逆伝播まで読み進めました。（P146まで噛み砕き中）
