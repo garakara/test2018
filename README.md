@@ -18,5 +18,9 @@ My interesting: DeepLearning, Python, Azure
 ### Markdownメモ  
 [Markdownメモ](https://qiita.com/oreo/items/82183bfbaac69971917f)
 
+### LaTexコマンド
+[LaTexコマンド集](http://www.latex-cmd.com/)
+
 ## コメント
+27,Jun 5章のコードを一通り実装（写経）
 25,Jun ようやく誤差逆伝播まで読み進めました。（P146まで噛み砕き中）
